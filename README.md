@@ -1,6 +1,6 @@
 # CachingLite
 
-CachingLite is an open-source caching database built on top of SQLite, written in Rust. It aims to deliver a highly optimized solution that balances memory usage with file reads, combining the full functionality of SQLite with advanced caching in a single library. The project is designed to be highly performant by dynamically managing the trade-off between loading data from memory or files, targeting offline-first applications like desktop and mobile, with plans to eventually support distributed systems.
+CachingLite is an open-source caching and SQLite database built on top of SQLite, written in Rust. It aims to deliver a highly optimized solution that balances memory usage with file reads, combining the full functionality of SQLite with advanced caching in a single library. The project is designed to be highly performant by dynamically managing the trade-off between loading data from memory or files, targeting offline-first applications like desktop and mobile, with plans to eventually support distributed systems.
 
 ## Vision
 The vision of CachingLite is to provide a seamless, performant caching database that integrates SQLite’s persistence with an optimized caching layer. By offering both caching and SQLite functionalities in one library, it enables developers to leverage:
