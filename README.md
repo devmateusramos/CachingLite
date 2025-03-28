@@ -6,8 +6,11 @@ CachingLite is an open-source caching and SQLite database built on top of SQLite
 The vision of CachingLite is to provide a seamless, performant caching database that integrates SQLite’s persistence with an optimized caching layer. By offering both caching and SQLite functionalities in one library, it enables developers to leverage:
 
 Dynamic Trade-off Optimization: Intelligent decisions on when to fetch data from memory (for speed) or from files (for persistence).
+
 High Performance: A solution that maximizes efficiency and minimizes latency.
+
 Ease of Use: A unified interface for caching and database operations.
+
 The goal is to create a tool that excels in resource management while retaining all the powerful features of SQLite, making it a go-to choice for applications requiring fast, reliable data access.
 
 ## Current Status
