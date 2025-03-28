@@ -15,7 +15,11 @@ CachingLite is in its early stages of development. The current focus is on build
 
 ## Planned Features
 Unified Caching and SQLite: A single library that combines caching with SQLite’s full feature set, simplifying data management.
+
 Optimized Trade-off Management: Algorithms that dynamically decide whether to serve data from an in-memory cache or query the SQLite database, balancing performance and resource usage.
+
 High Performance: Low-latency, high-throughput access tailored for demanding applications.
+
 Offline-First Focus: Ideal for desktop and mobile apps that need robust data access without network reliance.
+
 Future Distributed Systems: Plans to scale the solution for high-performance distributed environments.
